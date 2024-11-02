@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pr0methee, I'm now a student at the University of Orléans (France ). That's my very frst year here, I'm doing an informatic-mathematics portal, meaning that during this first semester I'm studying both even if next semester I will study a lot of maths compared to informatic.
+I'm Pr0methee, I'm now a student at the University of Orléans (France ). That's my second year here, I'm pursuing a degree in mathematic, but I chose to have some lessons of Informatic .
 
 For me programming is more a hobby than a project of work.
 
