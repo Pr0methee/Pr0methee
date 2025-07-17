@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Unifont";
+    src: local("Unifont"), url(../fonts/unifont.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    margin-top: 25px;
+    letter-spacing: 0.1em;
+}
+
+.container{
+    background-color: rgba(50, 50, 50, 0.75);
+    border-radius: 25px;
+    margin: 50px 50px 50px;
+    padding: 50px 25px;
+}
+
+.container table {
+    width: calc(100% - 30px); /* Full width minus the margin on both sides */
+    border-collapse: collapse; /* Ensures there are no spaces between cells */
+}
+
+.container table td {
+    width: 50%; /* Ensures equal width for all cells */
+}
+
+.container tr{
+    display: flex;
+    margin-bottom: 25px;
+}
+
+
+article {
+    margin-top: 25px;
+    margin-left: 15px;
+    text-indent: 25px;
+}
+
+.proj {
+    margin:10px;
+    background: linear-gradient(45deg, rgba(108, 26, 3, 0.75), rgba(90, 3, 3, 0.75), rgba(84, 13, 13, 0.75));
+    background-size: 200% 200%;
+    animation: gradientAnimation 10s linear infinite;
+    padding: 5px 25px;
+    border-radius: 25px;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    margin-right: 10px; /* Adds some spacing between text and image */
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    margin-bottom: -25px;
+}
+
+.proj img{
+    width: auto;
+    margin-top: -15px;
+}
+
+.f1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.footer {
+    width: 25%;
+    background: radial-gradient(circle, #640505, #370505);
+    text-align: center;
+    color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+}
