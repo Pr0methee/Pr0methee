@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pr0methee, I'm now a student at the University of Orléans (France ). That's my second year here, I'm pursuing a degree in mathematic, but I chose to have some lessons of Informatic .
+I'm Pr0methee, I'm now a student at the University of Orléans (France ). That's my third year here, I'm pursuing a degree in mathematic, but I chose to have some lessons of Informatic .
 
 For me programming is more a hobby than a project of work.
 
